@@ -1,0 +1,23 @@
+.btn{
+    background-color: blue;
+    color: aliceblue;
+    border: 1px solid;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#lgin{
+    border: 1px solid ;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color:black ;
+}
+#new{
+    border: 1px solid ;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color:rgb(7, 243, 62) ;
+}
